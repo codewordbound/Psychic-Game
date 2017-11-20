@@ -1,0 +1,12 @@
+body {
+	background-image: url(../images/crystal-ball.jpg);
+	background-repeat: no-repeat;
+	color:white;
+}
+ul {
+
+	margin-left:-40px;
+	list-style-type: none;
+	font-size: 18px;
+	font-weight: bold;
+}	
